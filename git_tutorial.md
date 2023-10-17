@@ -23,3 +23,5 @@
 ## Задание 2. Команда, которая изменяет комментарий коммита
 1. git commit --amend -m 'new_commit_name'
 ## Работа с удаленным репозиторием
+1. git remote add origin <repository_address>
+2. git push -u origin master
