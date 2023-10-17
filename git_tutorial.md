@@ -10,6 +10,10 @@
 1. git add 'file_name' | .
 2. git commit -m 'commit_name'
 ## Ветки в Git
+1. git branch <branch_name>
+2. git checkout <branch_name>
+3. git checkout -b <branch_name>
+4. git merge <feature_branch>
 ## История коммитов и работа с ними
 ## Работа с удаленным репозиторием
 ## Новая строка
