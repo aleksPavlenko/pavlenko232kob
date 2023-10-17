@@ -15,5 +15,7 @@
 3. git checkout -b <branch_name>
 4. git merge <feature_branch>
 ## История коммитов и работа с ними
+1. git show
+2. git log  | --oneline | --stat | --graph
+3. git diff
 ## Работа с удаленным репозиторием
-## Новая строка
