@@ -18,4 +18,6 @@
 1. git show
 2. git log  | --oneline | --stat | --graph
 3. git diff
+## Задание 1. Команда, которая создает коммит без использования команды add
+1. git commit -a -m 'commit_name'
 ## Работа с удаленным репозиторием
